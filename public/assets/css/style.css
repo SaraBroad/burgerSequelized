@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(228, 204, 0);
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+
+h1 {
+    font-family: 'Righteous', cursive;
+    margin-left: 490px;
+}
+
+input {
+    length: 200px;
+    height: 50px;
+}
+
+.btn {
+    margin-left: 150px;
+}
+
+.burger-box {
+    border: 1px solid black; 
+    background-color: white;
+    width: 200px;
+    height: 50px;
+    margin-left: 400px;
+    float: left;
+}
+
+.devour-box {
+    border: 1px solid black; 
+    background-color: white;
+    width: 200px;
+    height: 50px;
+    margin-left: 100px;
+    list-style-type: none;
+    text-align: center;
+}
+
